@@ -1,3 +1,3 @@
 # TO-DO-list
-https://github.com/Mandypophale/TO-DO-list.git
+https://mandypophale.github.io/TO-DO-list/
 A user-friendly To-Do List using HTML, CSS, and JavaScript. Features include task creation,completion, deletion, and persistent storage with a clean, responsive design for efficient task management..
